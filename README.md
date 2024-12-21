@@ -1,4 +1,4 @@
-# Computer Vision Smart City
+# Computer Vision Smart City [Link here!](https://huggingface.co/spaces/COS40007/Computer-Vision-Smart-City)
 This project is primary used for detecting rubbish from image/video provided, using Yolov5 & Unet(not work) model.
 
 # Overview
